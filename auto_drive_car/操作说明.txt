@@ -1,0 +1,4 @@
+1. 先运行web_insect.py，下载图片
+2. 用sizer.py，筛选图片（可以的按y键，不可以的按n键）
+3. 用resize.py，自动调整尺寸
+4. 用file_writer.py，生成description_postive.txt
